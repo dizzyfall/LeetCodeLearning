@@ -27,6 +27,8 @@ from typing import List
 """
 
 """
+思路：
+
 a+b>c
 a+c>b
 b+c>a
